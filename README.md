@@ -8,4 +8,4 @@ Si vous avez des questions ou que vous souhaitez échanger sur l'un de mes fichi
 
 ## Licence
 
-Ce projet est sous **licence Unli
+Ce projet est sous **licence Unlicense**. Cela signifie que vous pouvez l'utiliser, le modifier et le redistribuer librement, sans aucune restriction.

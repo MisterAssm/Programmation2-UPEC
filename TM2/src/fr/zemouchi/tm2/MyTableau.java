@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class MyTableau {
 
-    int[] elements;
-    int numberOfElements;
+    public int[] elements;
+    public int numberOfElements;
 
     public MyTableau(int size) {
         this.elements = new int[size];

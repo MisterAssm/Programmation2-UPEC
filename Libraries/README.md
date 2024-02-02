@@ -6,4 +6,4 @@ Ce module contient toutes les librairies externes utilisés pour les Travaux sur
 
 > 📜 Documentation : https://horstmann.com/sjsu/graphics/
 >
-> 📁 [``src/graphics``](graphics) et [``src/pictures``](pictures)
+> 📁 [``src/graphics``](../out/production/Libraries/graphics) et [``src/pictures``](../out/production/Libraries/pictures)
